@@ -1,2 +1,2 @@
 Lab 1 for CS556 Spring Robotics Class at SDSU.  After configuring Arduino IDE, this lab implements motion primitives on the Polulu 3pi + <br>
-<center>![imaage of Polulu Robot](Pololu3pi.jpg)</center>
+![image of Polulu Robot](Pololu3pi.jpg)
